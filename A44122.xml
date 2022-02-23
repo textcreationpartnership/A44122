@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter written by Mr. Henry Holden doctor of the faculty at Paris, touching the prohibition at Rome of Mr. Blacklow's book, intituled, Tabulæ suffragfiales</title>
+            <author>Holden, Henry, 1596-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44122</idno>
+            <idno type="STC">Wing H2378</idno>
+            <idno type="STC">ESTC R215278</idno>
+            <idno type="EEBO-CITATION">99827195</idno>
+            <idno type="PROQUEST">99827195</idno>
+            <idno type="VID">31611</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31611)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1888:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter written by Mr. Henry Holden doctor of the faculty at Paris, touching the prohibition at Rome of Mr. Blacklow's book, intituled, Tabulæ suffragfiales</title>
+                  <author>Holden, Henry, 1596-1662.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Douai? :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Blacklow = Thomas White.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>White, Thomas, 1593-1676 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:31611:1" rendition="simple:additions"/>
+            <head>
+               <hi>A</hi> LETTER <hi>written by Mr.</hi> Henry Holden <hi>Doctor of the faculty at</hi> Paris, <hi>touching the prohibition at</hi> Rome <hi>of Mr.</hi> Blacklow's <hi>Book, inti<g ref="char:EOLhyphen"/>tuled,</hi> Tabulae ſuffragiales.</head>
+            <div type="to_the_reader">
+               <head>To the Reader,</head>
+               <p>HAving had the advantage and honour of a long ac<g ref="char:EOLhyphen"/>quaintance with Mr. <hi>Black<g ref="char:EOLhyphen"/>low,</hi> whom I take to be one of the learnedſt men of our Nation, I received ſome ſcandal at the hea<g ref="char:EOLhyphen"/>ring his Book was condemned at <hi>Rome,</hi> in which I was the more concerned through the cenſures given thereon by ſeveral of my acquaintance, more knowing then my ſelf in ſuch matters; yet out of my love and eſteem of his per<g ref="char:EOLhyphen"/>ſon very unwilling to believe
+<pb n="2" facs="tcp:31611:2"/>
+there was juſt cauſe for this cen<g ref="char:EOLhyphen"/>ſure, I thought fit to enquire of Doctor <hi>Holden,</hi> from whom I re<g ref="char:EOLhyphen"/>ceived this following Anſwer; which as it hath rectified my ig<g ref="char:EOLhyphen"/>norance, ſo may it perhaps doe the like of others, who as I are ac<g ref="char:EOLhyphen"/>quainted with Mr. <hi>Blacklow;</hi> and may be worth the reading of all men who care to inform them<g ref="char:EOLhyphen"/>ſelves of ſuch prohibitions, and actions of that nature, proceeding from the Inquiſition at <hi>Rome,</hi> wherefore I have cauſed it to be printed.</p>
+            </div>
+            <div type="letter_proper">
+               <head>Sir,</head>
+               <p>I received your long Letter of the 10th. of <hi>October</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>657. and whereas amongſt other things you ask me what do I now ſay to Mr. <hi>Blacklow</hi>'s doctrine ſince the Pope's laſt <hi>Decree</hi> againſt it? why, Sir I ſay, I am ſtill of the ſame o<g ref="char:EOLhyphen"/>pinion I was, ſpecified in my laſt
+<pb n="3" facs="tcp:31611:2"/>
+unto you of the firſt of <hi>Aug.</hi> And that you are miſtaken in the na<g ref="char:EOLhyphen"/>ture of theſe <hi>Decrees</hi> from <hi>Rome,</hi> I have ſeen the <hi>Prohibition,</hi> and it is of ſeveral ſmal treatiſes named in it, dated the 6. of <hi>September</hi> laſt, by the way of an addition to the <hi>Index</hi> of forbidden books. And the very laſt of thoſe flying ſheets there mentioned is the name of one of M. <hi>Blacklow</hi>'s works, enti<g ref="char:EOLhyphen"/>tuled, <hi>Tabulae ſuffragiales.</hi>
+               </p>
+               <p>Now <hi>Sir,</hi> That you may not be too eaſily carried away with the vulgar ignorant, and take a <hi>Prohi<g ref="char:EOLhyphen"/>bition</hi> for a <hi>condemnation</hi> of here<g ref="char:EOLhyphen"/>ſie; And a <hi>Decree</hi> of the <hi>Congrega<g ref="char:EOLhyphen"/>tion</hi> of Cardinals and others, cal<g ref="char:EOLhyphen"/>led, the <hi>Inquiſition,</hi> for a Bull of the Pope himſelf, I will tell you as a friend, and as (I ſuppoſe) not verſed in theſe buſineſſes, what underſtanding and truly Learned men do think of theſe <hi>Prohibiti<g ref="char:EOLhyphen"/>ons.</hi> With this <hi>Caveat</hi> neverthe<g ref="char:EOLhyphen"/>leſs,
+<pb n="4" facs="tcp:31611:3"/>
+that however eaſie a thing it is to get any private man's writ<g ref="char:EOLhyphen"/>ings put into the <hi>Index</hi> of forbid<g ref="char:EOLhyphen"/>den books amongſt others: Yet ought not any Catholike to con<g ref="char:EOLhyphen"/>temn or ſlight theſe <hi>Decrees,</hi> ſince they bear the name of a ſupreme Superiour. I will therefore inform you in a word what theſe <hi>Prohibitions</hi> are, and upon what grounds they are generally given.</p>
+               <p>Firſt, they are only acts of a particular Court or <hi>Congregation</hi> in <hi>Rome,</hi> Though put out in the Pope's name, as all other acts of the ſeveral Courts of that City u<g ref="char:EOLhyphen"/>ſually are. And therefore do not oblige, nor are commonly held to be of any force out of the Pope's territories; unleſſe ſome other State or Biſhop receive and pub<g ref="char:EOLhyphen"/>liſh them. Nor are theſe kind of <hi>Decrees</hi> ever admitted in <hi>France,</hi> but often rejected by the Parlia<g ref="char:EOLhyphen"/>ment of this Town, the moſt fa<g ref="char:EOLhyphen"/>mous
+<pb n="5" facs="tcp:31611:3"/>
+and learned Seat of Judi<g ref="char:EOLhyphen"/>cary in the Chriſtian world.</p>
+               <p>Secondly, we ſee theſe <hi>Decrees</hi> proceed from two cauſes, or ra<g ref="char:EOLhyphen"/>ther in two caſes. Firſt, when the forbidden book contains any thing contrary to the common, though only tolerated, cuſtome of the Church; or to the ordina<g ref="char:EOLhyphen"/>ry practiſe and pretentions of the Court of <hi>Rome.</hi> 2. When ſuch books are of that nature, as that the more ignorant or weaker ſort of men; or the more irreligious and looſer liv'd, may there find, or thence eaſily gather whereat to be much ſcandalized. Which to prevent belongs to the zealous ſolicitude of a general Paſtour and common Father. Not that ſuch forbidden books do always contain ſomething contrary to our Catholike faith (which then are particularly ſpecified as ſuch, and branded with the cenſure of
+<pb n="6" facs="tcp:31611:4"/>
+hereſie) but that they are judged by the <hi>Inquiſition</hi> to be obnoxi<g ref="char:EOLhyphen"/>ous and apt to beget evil conceits and opinions in the peoples fan<g ref="char:EOLhyphen"/>ſies; or at leaſt prejudicial to ſome greater good then their di<g ref="char:EOLhyphen"/>vulging could produce.</p>
+               <p>Hence we ſee many books for<g ref="char:EOLhyphen"/>bidden (as in this very <hi>Decree)</hi> nothing relating to the revealed points of our Chriſtian belief; Yea ſome undoubtedly contain<g ref="char:EOLhyphen"/>ing the true grounds of all Chri<g ref="char:EOLhyphen"/>ſtianity, as the Bible it ſelf in vul<g ref="char:EOLhyphen"/>gar tongues. So that the <hi>Inqui<g ref="char:EOLhyphen"/>ſition</hi> doth principally attend in theſe <hi>Prohibitions,</hi> what may be the effect of ſuch books through the ignorance or malice of their readers, without examining what the particular doctrin of the book may be in it ſelf. And here I muſt confeſs, that M. <hi>Blacklow</hi>'s unuſual expreſſions &amp; his exotick opinions are not fit in my judgment to be
+<pb n="7" facs="tcp:31611:4"/>
+expos'd to the view of every ordi<g ref="char:EOLhyphen"/>nary man, or envious malevolent. For his doctrine, being both pro<g ref="char:EOLhyphen"/>found and obſcure, is beyond the reach of every common reader. Who, if he chance to be proud and ſelf-conceited (as it often happens) and have a tooth a<g ref="char:EOLhyphen"/>gainſt the Author, he forgeth as many hereſies in his own brain, as there be paſſages he under<g ref="char:EOLhyphen"/>ſtands not. Experienced and learned men know how many fa<g ref="char:EOLhyphen"/>mous books written by the <hi>R. R. f. f.</hi> of the ſociety of Jeſus, of ſe<g ref="char:EOLhyphen"/>veral Nations, have been forbid<g ref="char:EOLhyphen"/>den in this kind. And ſome of our <hi>French</hi> Jeſuits volums highly <hi>condemned</hi> by the <hi>Inquiſition</hi> of hereſie; others for maintaining the <hi>Gallican</hi> priviledges prejudi<g ref="char:EOLhyphen"/>cial to the Pope and Court of <hi>Rome</hi>'s pretentions: which not<g ref="char:EOLhyphen"/>withſtanding the Authors them<g ref="char:EOLhyphen"/>ſelves have caus'd to be reprinted
+<pb n="8" facs="tcp:31611:5"/>
+in this Town the year immedi<g ref="char:EOLhyphen"/>ately following their <hi>Prohibition.</hi> And of the <hi>Spaniſh</hi> Jeſuits books ſome have been cleared and ap<g ref="char:EOLhyphen"/>proved by the <hi>Inquiſition</hi> of <hi>Spain,</hi> after they had been cenſured and condemned by the <hi>Inquiſition</hi> of <hi>Rome.</hi> This I ſay not, as either diſreſpecting the <hi>Inquiſition's De<g ref="char:EOLhyphen"/>crees,</hi> or diſapproving theſe R. R. <hi>f. fa.</hi> proceedings. Who am I? that I ſhould doe either? every man defends his own right. I only aym to let you underſtand the nature of theſe <hi>Roman Prohi<g ref="char:EOLhyphen"/>bitions.</hi> And not only they, but even the Pope's own perſonal Bulls are not held to be of any obligation in <hi>France,</hi> until they be allow'd of by the King, verified in Parliament, received by our Biſhops, and publiſhed by our Pa<g ref="char:EOLhyphen"/>riſh Churches. It is true, we ſee that now and then ſome factious ſpirits make uſe of theſe <hi>Decrees</hi>
+                  <pb n="9" facs="tcp:31611:5"/>
+of the <hi>Inquiſition</hi> to cry down with clamours their Adverſary's reputation amongſt the credu<g ref="char:EOLhyphen"/>lous vnlgar, and procure them to this effect. Which were it done out of pure zeal, though indiſ<g ref="char:EOLhyphen"/>creet and without knowledge, yet were it pardonable. And therefore you muſt not always condemn ſuch as may perhaps out of an innocent reſpect to this <hi>Prohibition,</hi> blame Mr. <hi>Blacklow</hi>'s doctrine.</p>
+               <p>If you come to the ſight of this <hi>Decree,</hi> you will clearly ſee the <hi>Inquiſition's</hi> intention is to take away an occaſion of ſcandal to the weak and ignorant. Think<g ref="char:EOLhyphen"/>ing it better to ſuppreſſe thoſe bold and contentious, though ne<g ref="char:EOLhyphen"/>ver ſo learned, pieces, then to expoſe many thouſands of infirm and unlearned men to the danger of being diſedified.</p>
+               <p>Firſt, you will ſee forbidden
+<pb n="10" facs="tcp:31611:6"/>
+the 18 <hi>Provincials Letters</hi> (whereof I doubt not but you have heard) in which there is not a word of any Doctrine propoſed by the Author himſelf, being meer cita<g ref="char:EOLhyphen"/>tions of many licentious and ſcandalous opinions, taught and publiſhed (as he ſays) by the <hi>R. R. f. f.</hi> of the ſociety of Jeſus. And you may wel think, the <hi>Inquiſition</hi> might juſtly fear it would be a ſcandal to the Church, if belie<g ref="char:EOLhyphen"/>ved, that ſuch a conſiderable member of it as that company is, ſhould maintain and practiſe ſuch wicked Tenets. And therefore thought fit to forbid thoſe Let<g ref="char:EOLhyphen"/>ters.</p>
+               <p>In the next place there is for<g ref="char:EOLhyphen"/>bidden a ſlight leaf of a ſheet of paper, called, <hi>Lettre d'un Advocat touchant la Bulle d' Allexandre</hi> 7. Which is only concerning a poli<g ref="char:EOLhyphen"/>tical point of the <hi>Priviledges</hi> and <hi>liberties</hi> of <hi>France,</hi> againſt the In<g ref="char:EOLhyphen"/>troducing
+<pb n="11" facs="tcp:31611:6"/>
+of the <hi>Inquiſition</hi> or o<g ref="char:EOLhyphen"/>ther ſubjection into the King<g ref="char:EOLhyphen"/>dome: Which ſeemed offenſive to the Court of <hi>Rome,</hi> and there<g ref="char:EOLhyphen"/>fore forbidden.</p>
+               <p>In the third place there are for<g ref="char:EOLhyphen"/>bidden divers ſmall ſcholaſtical Treatiſes of the famous <hi>Monſieur Arnauld's.</hi> Whereof one is his Epiſtle to me. In all which works his chief drift is to ſhew that his opinion, concerning <hi>efficacious Grace,</hi> is nothing different from the doctrine of the antient Fa<g ref="char:EOLhyphen"/>thers, particularly of St. <hi>Auſtin,</hi> and St. <hi>Thomas</hi> of <hi>Aquin.</hi> Re<g ref="char:EOLhyphen"/>nouncing what ever he may ſeem to affirm diſſonant from them. And ſure it would be a ſcandal to have it thought that the doctrine of thoſe Fathers, honoured and approved by the Church for ſo many hundred years together, ſhould now come to be cenſured and condemned. And therefore
+<pb n="12" facs="tcp:31611:7"/>
+the <hi>Inquiſition</hi> judged it fit to ſuppreſſe thoſe treatiſes as endea<g ref="char:EOLhyphen"/>vouring to prove it.</p>
+               <p>In the laſt place is thruſt into this Catalogue of theſe forbidden books, Mr. <hi>Blacklow</hi>'s treatiſe, cal<g ref="char:EOLhyphen"/>led, <hi>Tabulae ſuffragiales,</hi> with it's Appendix, <hi>teſterae Romanae evulga<g ref="char:EOLhyphen"/>tio.</hi> Wherein the Author's prin<g ref="char:EOLhyphen"/>cipal deſign is to prove that great truth, and eſſential rule of all Chriſtianity, to wit, that our Ca<g ref="char:EOLhyphen"/>tholike faith is to be reſolved in<g ref="char:EOLhyphen"/>to univerſal tradition. As alſo to demonſtrate the antient opini<g ref="char:EOLhyphen"/>on of our faculty at <hi>Paris,</hi> That the Pope is not unerrable and in<g ref="char:EOLhyphen"/>fallible in his own ſingular per<g ref="char:EOLhyphen"/>ſon. But indeed he goes ſome<g ref="char:EOLhyphen"/>what farther, and condemns the contrary opinion as <hi>improbable, Heretical</hi> and <hi>Archiheretical.</hi> And therefore you need not wonder if the <hi>Inquiſition</hi> have forbidden his book, without ſpecifying his do<g ref="char:EOLhyphen"/>ctrine,
+<pb n="13" facs="tcp:31611:7"/>
+being ſo oppoſite to their pretentions, though the opinion it ſelf (not cenſuring the contra<g ref="char:EOLhyphen"/>ry) be a common Tenet of many both of our antient and modern Doctors of <hi>Paris.</hi>
+               </p>
+               <p>In fine, the <hi>Decree</hi> forbids the kee<g ref="char:EOLhyphen"/>ping or reading of any of theſe or other books written in defenſe of <hi>Janſenius.</hi> Yea and of printing any thing (without the <hi>inquiſiti<g ref="char:EOLhyphen"/>on's</hi> leave) about the matter of <hi>Grace.</hi> Which I underſtand not how they could ever imagine ſhould be obſerved, at leaſt be<g ref="char:EOLhyphen"/>yond the limits of the Eccleſiaſti<g ref="char:EOLhyphen"/>cal ſtate. Can they think that all the learned Divines of <hi>Europe,</hi> as well Readers and Profeſſours, as others, ſhall daily ſtudy, write, diſcuſſe, and teach publickly and privately the hard and ever-diſ<g ref="char:EOLhyphen"/>puted Queſtions of <hi>Grace and free will,</hi> and none ſhall print any of that ſubject? Believe it that
+<pb n="14" facs="tcp:31611:8"/>
+will, I am ſure it will be other<g ref="char:EOLhyphen"/>wiſe.</p>
+               <p>There is one word, which per<g ref="char:EOLhyphen"/>haps unexperienced men may ſtumble at, And which the Ad<g ref="char:EOLhyphen"/>verſaries to theſe forbidden Au<g ref="char:EOLhyphen"/>thors will alledge in an evil ſenſe, That is, <hi>damnat;</hi> Which is an uſual word in the ſtyle and form of theſe <hi>Decrees,</hi> And here ſignifies not, nor doth the <hi>Inquiſition</hi> in<g ref="char:EOLhyphen"/>tend it ſhould, to <hi>condemn of he<g ref="char:EOLhyphen"/>reſie</hi> the books they forbid. It were ridiculous to think it, being the greater half of theſe prohibi<g ref="char:EOLhyphen"/>ted books (though the word <hi>damnat</hi> be common to them all) have nothing in them concerning any point of our Chriſtian faith; but are only matters of morality and diſcipline, and therefore it is to be taken, for to <hi>diſallow,</hi> diſ<g ref="char:EOLhyphen"/>prove, and blame.</p>
+               <p>Now <hi>Sir,</hi> as we abroad, verſed in the great continent, and living
+<pb n="15" facs="tcp:31611:8"/>
+in the open profeſſion of our Ca<g ref="char:EOLhyphen"/>tholike Religion, take no notice of theſe <hi>Decrees,</hi> I ſay, in relation to the approving or diſapproving of any point of our Chriſtian and Catholike faith; ſo I conceive the Catholikes of your Iſland, though now hidden and obſcu<g ref="char:EOLhyphen"/>red, living under the yoke of perſecution, will in time come to know more exactly the ſeveral degrees of reſpect which may be due to the <hi>See</hi> and <hi>Congregations</hi> of <hi>Rome.</hi> And then at leaſt, they will forbear, as we doe, to cenſure, upon ſlight grounds, any particular learned man's ſingular opinion; wherein if these lines may in the interim prevaile with you, I ſhall ob<g ref="char:EOLhyphen"/>taine my deſire. Let others doe as God ſhall inſpire them; To whoſe heavenly Protecti<g ref="char:EOLhyphen"/>on I heartily commend both
+<pb n="16" facs="tcp:31611:9"/>
+them and you, Reſting as ever,</p>
+               <closer>
+                  <signed>Your moſt humble and truly affectio<g ref="char:EOLhyphen"/>nate ſervant, <hi>H. HOLDEN.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Paris</hi> 
+                     <date>
+                        <hi>Novemb.</hi> 19. 1657.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
